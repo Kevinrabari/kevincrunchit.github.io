@@ -1,5 +1,10 @@
 /* content */
 
+body {
+    background-color: blue;
+    background-image: linear-gradient(to bottom right, blue, white);
+}
+
 .image {
     margin-top: 100px;
 }
@@ -16,6 +21,8 @@
     width: 100%;
     background: #0a16c4bb;
     box-shadow: 10px 0 10px #000000;
+    margin-top: 50px;
+    margin-bottom: 50px;
 }
 
 .line1 {
@@ -43,6 +50,13 @@ footer a {
     display: block;
     text-align: center;
 
+}
+
+.eachprojectlink {
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 
 
